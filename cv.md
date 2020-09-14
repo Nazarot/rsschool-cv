@@ -16,6 +16,6 @@
  ```
 
 ## Education
-I am studying at BGUIR 3 course
+**I am studying at BGUIR 3 course**
 ## English
 ~A2
