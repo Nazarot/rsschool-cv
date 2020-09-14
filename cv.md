@@ -1,19 +1,19 @@
 #Nazar Rusetskiy
-1.##My contacts: 
+##My contacts: 
 Nazar7654321@yandex.by
 https://vk.com/rusetskiynazar
-1.##Summary
+##Summary
 *I am trying to complete this course*
-1.##Skills
+##Skills
 с++,js,sql
-1.##Code samples
+##Code samples
 `var Cat = new Class({
     Extends: Animal,
     initialize: function(name, age){
         this.parent(age); 
     }
 });`
-1.##Education
+##Education
 I am studying at BGUIR 3 course
-1.##English
+##English
 A2
